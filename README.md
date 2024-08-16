@@ -11,6 +11,21 @@
 }
 ```
 
+# Usage of API
+- learn: - Learn from a PDF or text file
+  - <file_path>
+
+- search: - Perform an internet search
+
+- train - Train from all the messages and pdf files and text files
+
+- base: - Use the base model without additional context
+
+- all: - Use all available knowledge (learned + internet + base model + interaction history)
+  - <file_path>
+
+
+
 ## Benifits of using Bellande AI System
 - Can be used in any Programming Languages
 - Can be used in any Operating Systems
